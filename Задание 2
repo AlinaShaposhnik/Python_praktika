@@ -1,0 +1,4 @@
+ a = float(input ("Длина комнаты= "))
+ b = float(input ("Ширина комнаты= "))
+ S=a*b
+ print(S)
