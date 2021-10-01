@@ -1,0 +1,4 @@
+a = float(input ("Вес= "))
+b = float(input ("Рост= "))
+BMI=a/(b*b)
+print(BMI)
